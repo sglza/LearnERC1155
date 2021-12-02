@@ -2,5 +2,5 @@
 	"name": "Token #43",
 	"description": "Description of token 43",
 	"image": "https://openmoji.org/data/color/svg/1F643.svg",
-	"attributes": [{ "number": 43 }]
+	"attributes": [{ "value": "Odd" }]
 }
